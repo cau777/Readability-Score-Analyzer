@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Readability Score/task/build/
+/Readability Score/task/out/
+/Readability Score/task/out/production/classes/
+/Topics/Floating-point types/Find X/out/
+/Topics/Floating-point types/Find X/out/production/classes/
+/Topics/Math library/Quadratic equation/out/
+/Topics/Math library/Quadratic equation/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/
